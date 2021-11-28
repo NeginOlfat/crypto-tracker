@@ -107,3 +107,4 @@ const CoinCard = ({symbol, coin_name, price_usd, percent_change_24hr, percent_ch
         
     )
 }
+export default CoinCard;
